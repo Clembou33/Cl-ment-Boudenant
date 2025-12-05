@@ -1,0 +1,20 @@
+#title {
+    color: red;
+    background-color: aqua;
+    text-align: center;
+    margin: 50px;
+    width: 20%;
+}
+
+a {
+    color: white;
+    background-color: blue;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 8px;
+    border: 1px;
+    border-radius: 8px;
+    display: block;
+    width: 25%;
+    margin: auto;
+}
